@@ -13,6 +13,7 @@ inicio
    escreva("Quantos Km foram percorridos: ")
    leia(km)
 
+
    se ((tipoCarro = "popular") ou (tipoCarro = "Popular")) entao
       valorDias <- dias * 90
 
