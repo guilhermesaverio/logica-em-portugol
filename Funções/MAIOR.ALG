@@ -12,7 +12,7 @@ inicio
       se(n2 > n1) e (n2 > n3) entao
          retorne n2
       senao
-         retorne n2
+         retorne n3
       fimse
    fimse
 
