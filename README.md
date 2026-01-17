@@ -21,11 +21,6 @@ Aqui estão armazenados algoritmos que trabalham conceitos fundamentais da progr
 
 ---
 
-## 🎯 Objetivo
-Consolidar minha base em **lógica de programação**, preparando o terreno para linguagens como **Java, SQL e outras**.
-
----
-
 ## 🛠 Tecnologias utilizadas
 - Portugol  
 - Visualg
